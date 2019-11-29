@@ -14,13 +14,15 @@ The main objective of the Car Test Drive Management System is to give customers 
 
 4 : Start wampServer64 from the desktop icon and open google chrome and type the following url without quotes: "http://localhost/phpmyadmin/" and enter root as username and press Go.
 
-5 : Now first you have to Load the database in your local server and then you can run the project.      
-     To load the database :
+5 : Now first you have to Load the database in your local server and then you can run the project. 
+
+  To load the database :
 - Click on +New on the left hand column
 - Give database name as "car_test_drive" (without quotes and small case) and set character encoding to "utf8mb4_unicode_ci"
 - After creating the database successfully, on the upper main menu panel, click on Import and then click "choose file" from file to import menu. Now browse to directory where you saved the project (expected directory: c://wamp/www/your_project_name/database/car_test_drive.sql) and click on car_test_drive.sql and then go down and click Go (Do not change any other settings).
 - After importing successfully, loading the database is complete.
-     Run the project :
-          - Open new tab in chrome
-          - type the following url : http://localhost/your_project_name_inside_www_directory/INDEX.html      
+
+Run the project :
+- Open new tab in chrome
+- Type the following url : http://<span></span>localhost/your_project_name_inside_www_directory/INDEX.html
 
