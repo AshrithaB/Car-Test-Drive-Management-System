@@ -1,0 +1,31 @@
+.tablecontainer
+{
+	margin-top: 10%;
+	background: none;
+	border:none;
+}
+table {
+      
+	table-layout: fixed;
+    word-wrap: break-word;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 95%;  
+  margin-left:3%;
+  margin-right:3%;
+ 
+}
+td, th{
+
+  width: 10%;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  background-color: #85C1E9; 
+
+}
+
+tr:nth-child(odd) {
+ padding: 5px;
+  background-color: #dddddd;
+}

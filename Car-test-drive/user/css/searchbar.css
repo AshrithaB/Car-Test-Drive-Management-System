@@ -1,0 +1,32 @@
+
+.input-field {
+  margin-top: 20%;
+  margin-left: 20%;
+  width: 50%;
+  text-align: center;
+  padding: 4px 4px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 10px;
+  background: #2929a8;
+}
+
+.search-container select
+{
+  margin-top: 2%;
+  margin-left: 2%;
+  padding: 15px 15px;
+  width: 30%;
+
+}
+.search
+{
+  padding: 15px 15px;
+  width: 60%;
+}
+.search-button
+{
+  padding: 16px 16px;
+  background: none;
+  border:none;
+}

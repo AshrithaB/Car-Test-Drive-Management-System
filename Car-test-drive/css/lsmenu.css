@@ -1,0 +1,75 @@
+/* Add styles to the form container */
+.lcontainer {
+  position: absolute;
+  left: 38%;
+  top:17%;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: none;
+}
+
+/* Add styles to the form container */
+.scontainer {
+  position: absolute;
+  left: 38%;
+  top:0.1px;
+  margin: 10px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: none;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=email] {
+  width: 90%;
+  padding: 15px;
+  margin: 5px 0 18px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password], input[type=email]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+/* Set a style for the submit button */
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 16px;
+  border: none;
+  cursor: pointer;
+  width: 40%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.cancelbtn {
+  background-color: #f44336;
+  color: white;
+  padding: 12px 16px;
+  border: none;
+  cursor: pointer;
+  width: 40%;
+  opacity: 0.9;
+}
+
+.cancelbtn:hover {
+  opacity: 1;
+}
+
+.cancelbtn, .btn {
+  float: left;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}

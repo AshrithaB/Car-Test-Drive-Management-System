@@ -1,0 +1,7 @@
+
+
+.table {}
+.table th{ background:#fffdfa; color:#818181; text-align: left; padding:10px 10px; border-bottom:solid 12px #d2d1cb;}
+.table td{ background:#fbfcfc;  border-bottom:solid 1px #e0e0e0; padding:10px 10px; }
+.table tr.odd td{ background:#f2f2f2; }
+.table tr:hover td{ background:#fff9e1; }

@@ -1,0 +1,37 @@
+.input-field {
+  margin-top: 15%;
+  margin-left: 20%;
+  height:7%;
+  width: 50%;
+  text-align: center;
+  padding:10px 10px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 10px;
+  background: #2929a8;
+  align-content: center;
+}
+.search-container label
+{
+
+  padding: 11px 11px;
+  width: 10%;
+  background-color: #fff;
+}
+ input[type="email"]
+{
+  margin-top: 1px;
+  padding: 13px 12px;
+  width: 65%;
+
+}
+.btn
+{margin-right: 4px;
+    padding: 14px 12px;
+   width: 20%;
+}
+.search-container label , input [type="email"] 
+{
+  float:left;
+}
+
