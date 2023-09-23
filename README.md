@@ -7,6 +7,8 @@ The main objective of the Car Test Drive Management System is to give customers 
 ### 
 <img src="https://github.com/AshrithaB/Car-Test-Drive-Management-System/blob/master/Screenshots/11.png?raw=true" />
 
+If you like this, please leave a ⭐! Thank you!
+
 # Installtion and execution procedure
 
 1 : Install wamp Download wamp(https://sourceforge.net/projects/wampserver/files/latest/download) 299Mb and update google chrome , download latest chrome (https://www.google.com/chrome/).
